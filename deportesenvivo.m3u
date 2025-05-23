@@ -1,1 +1,134 @@
+#EXTINF:-1,Moto GP  HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.m3u8
 
+#EXTINF:-1,Movistar F1 HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="España", Teleformula
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1,MOVISTAR BEIN SPORT
+http://maximumtv.biz/tv/beyin1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FTLjroU.png" group-title="ESPAÑA", Sevilla FC | SD
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hOYnTVm.png" group-title="DEPORTES", Olympic Channel | FHD
+https://live.olympicchannel.com/ocs/channel01b/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YyAsaqb.png" group-title="DEPORTES", DeporTV | SD
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521497894.png" group-title="Chileiptv" , Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&amp;rebase=on?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521497398.png" group-title="Chileiptv" , Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1522637574.png" group-title="Chileiptv" , RedBull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:-1,KTV Sport Kuwait
+https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8
+
+#EXTINF:-1,Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
+#EXTINF:-1,100% Automoto (BG)
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Todo Deportes" tvg-logo="https://i.imgur.com/hJgXuw6.png" group-title="DEPORTES",Todo Deportes HD
+http://tvpremiumhd.club/lista-gratuita/green/tododeportesx.m3u8
+
+#EXTINF:-1,MLB Network 2
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5jNF2N.png" group-title="Deportes", MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Grupo Formula
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1,PE: GOL PERU
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/156961
+
+#EXTINF:-1,PE: GOL TV HD
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/97670
+
+#EXTINF:-1,PE: Movistar Plus TV
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/156962
+
+#EXTINF:-1,SUR: ESPN 2
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/146717
+
+#EXTINF:-1,SUR: ESPN 3
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/87989
+
+#EXTINF:-1,SUR: Fox Sport PY
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/87995
+
+#EXTINF:-1,SUR: FOX SPORTS 1
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/77829
+
+#EXTINF:-1,SUR: FOX SPORTS 2
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/133021
+
+#EXTINF:-1,SUR: FOX SPORTS 3
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/133022
+
+#EXTINF:-1,SUR: Win Sport
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/88041
+
+#EXTINF:0,Fight time (ufc)
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
+#EXTINF:-1,ACB TV www.achoAPPS.com
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+
+#EXTINF:-1,AD Sports 1 HD www.achoAPPS.com
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1,AD Sports 2 HD www.achoAPPS.com
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1,Al Jazeera English www.achoAPPS.com
+http://ott-cdn.ucom.am/s23/index.m3u8
+
+#EXTINF:-1, tvg-logo="SlGP0BA.png" group-title="Canales de Deportes", ESPN 2 USA | HD achoAPPS.com
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:-1, tvg-logo="egIliuT.png" group-title="Canales de Deportes", Fox Sports Racing | HD achoAPPS.com
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:-1, tvg-logo="AsV1OSU.png" group-title="Canales de Deportes", All Sports | SD achoAPPS.com
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="0idlXyN.png" group-title="Canales de Deportes", Dubai Sports | HD achoAPPS.com
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
+#EXTINF:-1, tvg-logo="Hoo00j4.jpg" group-title="Canales de Deportes", Stadium Sports Network | SD achoAPPS.com
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/sportitaliatv/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Sport Italia",Sport Italia IT
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/sportitaliatv/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Sport Italia",Sport Italia
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/sportitaliatv/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Sport Italia",Sport Italia
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Motorsport.tvUK/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Motorsport.tv",Motorsport.tv
+https://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1912970794524610560/M1vEMVlm_200x200.jpg" group-title="Deportivos Int." tvg-name="Stadium USA",Stadium USA EN
+https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg" group-title="Deportivos Int." tvg-name="Garage TV Argentina",Garage TV Argentina
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/mtssportstv/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="MoreThanSports TV",MoreThanSports TV
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ITSF.tablesoccer/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Int. Table Soccer Federation",Int. Table Soccer Federation
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7333

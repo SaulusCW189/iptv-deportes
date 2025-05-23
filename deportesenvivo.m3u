@@ -1,34 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="TDP" group-title="Deportes",Teledeporte
+#EXTINF:-1 tvg-name="Teledeporte" group-title="Fútbol",Teledeporte (España)
 http://185.243.218.17:8000/play/a084/index.m3u8
 
-#EXTINF:-1 tvg-name="Gol Play" group-title="Deportes",Gol Play
+#EXTINF:-1 tvg-name="Gol Play" group-title="Fútbol",Gol Play (España)
 http://185.243.218.17:8000/play/a085/index.m3u8
 
-#EXTINF:-1 tvg-name="Red Bull TV" group-title="Deportes",Red Bull TV (Internacional)
+#EXTINF:-1 tvg-name="Red Bull TV" group-title="Motor",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-name="Canal 26" group-title="Fútbol",Canal 26 (Argentina)
-https://live-edge01.telecentro.net.ar/live/smil:canal26.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TVP Sport" group-title="Fútbol",TVP Sport (Polonia)
-https://stream.tvp.pl/?channel_id=14594312&format=m3u8
-
-#EXTINF:-1 tvg-name="Sport Italia" group-title="Italia",Sport Italia
+#EXTINF:-1 tvg-name="Sport Italia" group-title="Fútbol",Sport Italia
 http://wms.shared.streamshow.it/sportitalia/sportitalia/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Motorsport.tv" group-title="Motor",Motorsport TV
-https://dai.google.com/linear/hls/event/LdAxYj7zQ1q5IBcwZJqD1A/master.m3u8
-
-#EXTINF:-1 tvg-name="AutoMoto TV" group-title="Motor",AutoMoto TV (Italia)
-https://streaming.autovista.tv/AutoMotoTV/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TVP Sport" group-title="Internacional",TVP Sport (Polonia)
-https://stream.tvp.pl/?channel_id=14594312&format=m3u8
 
 #EXTINF:-1 tvg-name="FightBox HD" group-title="Contacto",FightBox HD
 https://fblive-lh.akamaihd.net/i/fblive_1@496627/master.m3u8
-
-#EXTINF:-1 tvg-name="Edge Sport" group-title="Extreme",Edge Sport
-https://edgesport-samsung-uk.amagi.tv/playlist.m3u8
